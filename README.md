@@ -101,7 +101,8 @@ https://discord.gg/F6tB2fsXug
 
 ## ✦ License
 
-Creative Commons Attribution-NonCommercial 4.0 International
+Apache-2.0 license
+https://www.apache.org/licenses/
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
