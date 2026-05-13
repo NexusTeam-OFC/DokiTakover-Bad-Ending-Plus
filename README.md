@@ -103,8 +103,7 @@ https://discord.gg/F6tB2fsXug
 
 Creative Commons Attribution-NonCommercial 4.0 International
 
-https://creativecommons.org/licenses/by-nc/4.0/
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # ✦ Thank You For Playing ♡
+![Thumbb](images/Thumbnail.png)
