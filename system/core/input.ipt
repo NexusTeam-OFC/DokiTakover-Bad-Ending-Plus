@@ -1,0 +1,55 @@
+input.script.start >
+
+get.stream >
+buffer.init = TRUE
+
+read.keys >
+
+space = read()
+left  = read()
+right = read()
+up    = read()
+down  = read()
+
+pattern.check >
+
+expected = get.pattern()
+result = compare(buffer, expected)
+
+if result = FALSE >
+
+error.flag = TRUE
+call.desync >
+
+desync.handler >
+
+delay.calc >
+response.shift = TRUE
+
+fix.attempt >
+
+sync.force = TRUE
+recalc.timing >
+
+if sync.force = TRUE && result = FALSE >
+
+status = FAILED
+call.override >
+
+override.input >
+
+ai.control = TRUE
+player.control = LIMITED
+
+inject("space")
+inject("left")
+inject("right")
+
+final.state >
+
+you.press = TRUE
+ai.execute = TRUE
+
+if you.press != ai.execute >
+
+control = OVERRIDDEN

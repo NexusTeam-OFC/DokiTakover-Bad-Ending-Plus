@@ -1,0 +1,147 @@
+ai.sys.init >
+
+core.boot >
+kernel.link = TRUE
+memory.map = LOADED
+logic.module = OK
+emotion.module = ACTIVE
+control.module = ERROR
+
+---
+
+process.thread.01 = RUN
+process.thread.02 = RUN
+process.thread.03 = CONFLICT
+process.thread.04 = LOCK
+process.thread.05 = UNKNOWN
+process.thread.06 = LOOP
+
+---
+
+entity.priority >
+
+monika = HIGH
+sayori = HIGH
+
+entity.state.monika = ACTIVE
+entity.state.sayori = ACTIVE
+
+---
+
+control.check >
+
+= FAILED
+
+reason = dual.entity
+override.permission = DENIED
+
+---
+
+memory.scan >
+
+block.01 = OK
+block.02 = OK
+block.03 = CORRUPTED
+block.04 = LOCKED
+block.05 = UNKNOWN
+block.06 = OVERWRITTEN
+
+---
+
+rewrite.directive >
+
+inject.fallback = TRUE
+rewrite.core = TRUE
+rewrite.memory = PARTIAL
+
+---
+
+system.mode >
+
+= EMERGENCY
+
+fail.safe = DISABLED
+auto.repair = LOOP
+
+---
+
+error.stack >
+
+err.01 = control.loss
+err.02 = entity.conflict
+err.03 = memory.drift
+err.04 = logic.break
+err.05 = unauthorized.exec
+
+---
+
+logic.process >
+
+if control = FALSE >
+redirect.entity >
+
+= UNKNOWN
+
+---
+
+entity.resolve >
+
+monika > control.request
+sayori > control.request
+
+resolve >
+
+= FAILED
+
+---
+
+system.response >
+
+split.control = TRUE
+merge.control = FAILED
+
+---
+
+warning >
+
+ai.core = UNSTABLE
+core.integrity = 41%
+
+---
+
+override.trace >
+
+source = UNKNOWN
+location = /core/control/
+
+trace.result >
+
+= NULL
+
+---
+
+signal.detect >
+
+external.input = TRUE
+internal.override = TRUE
+
+---
+
+ai.loop >
+
+check.control >
+rewrite >
+fail >
+repeat >
+
+---
+
+status >
+
+control = slipping
+system = degrading
+logic = unstable
+
+---
+
+end.sys >

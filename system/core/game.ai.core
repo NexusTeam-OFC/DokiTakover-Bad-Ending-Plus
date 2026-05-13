@@ -1,0 +1,178 @@
+ipu.core.init() {
+
+    input.stream = open;
+    input.mode = hybrid;
+
+    device.keyboard = true;
+    device.touch = limited;
+
+    sync.engine = start();
+
+    entity.load("monika.chr");
+    entity.load("sayori.chr");
+    entity.load("yuri.chr");
+    entity.load("natsuki.chr");
+
+}
+
+--------------------------------------------------
+
+function entity_state() {
+
+    monika.state  = ACTIVE;
+    sayori.state  = ACTIVE;
+    yuri.state    = NULL;
+    natsuki.state = NULL;
+
+    if (monika.state == ACTIVE) {
+        priority.control = "monika";
+    }
+
+    if (sayori.state == ACTIVE) {
+        conflict.flag = TRUE;
+    }
+
+}
+
+--------------------------------------------------
+
+function read_input() {
+
+    key.space = detect();
+    key.left  = detect();
+    key.right = detect();
+    key.up    = detect();
+    key.down  = detect();
+
+    return buffer;
+
+}
+
+--------------------------------------------------
+
+function compare_input(buffer) {
+
+    expected = pattern.current();
+    result = (buffer == expected);
+
+    if (result == false) {
+        error.flag = TRUE;
+        call(desync_handler);
+    }
+
+}
+
+--------------------------------------------------
+
+function desync_handler() {
+
+    delay.offset = calc();
+    response.shift = TRUE;
+
+    attempt_fix();
+
+}
+
+--------------------------------------------------
+
+function attempt_fix() {
+
+    sync.force = TRUE;
+    recalc.timing();
+
+    if (sync.force == TRUE && result == false) {
+        status = FAILED;
+        call(ai_override);
+    }
+
+}
+
+--------------------------------------------------
+
+function ai_override() {
+
+    control.player = LIMITED;
+    control.ai = FULL;
+
+    if (priority.control == "monika") {
+        inject.input("space");
+        inject.input("left");
+    }
+
+    if (conflict.flag == TRUE) {
+        inject.input("right");
+        inject.input("down");
+    }
+
+}
+
+--------------------------------------------------
+
+loop main_cycle {
+
+    entity_state();
+
+    buffer = read_input();
+
+    compare_input(buffer);
+
+    if (error.flag == TRUE) {
+        desync_handler();
+    }
+
+    if (control.ai == FULL) {
+        ai_override();
+    }
+
+}
+
+--------------------------------------------------
+
+process control_map {
+
+    priority.ai > priority.player;
+
+    if (priority.ai == TRUE) {
+        user.control = FALSE;
+    }
+
+}
+
+--------------------------------------------------
+
+entity.check {
+
+    if (yuri.state == NULL && natsuki.state == NULL) {
+        system.warning = "missing entities";
+    }
+
+    if (monika.state == ACTIVE && sayori.state == ACTIVE) {
+        system.error = "dual control";
+    }
+
+}
+
+--------------------------------------------------
+
+final.state {
+
+    you.press = TRUE;
+    ai.execute = TRUE;
+
+    if (you.press != ai.execute) {
+        control = OVERRIDDEN;
+    }
+
+}
+
+--------------------------------------------------
+
+terminate() {
+
+    you.control = FALSE;
+    we.control = TRUE;
+
+    monika.observe = TRUE;
+    sayori.observe = TRUE;
+
+}

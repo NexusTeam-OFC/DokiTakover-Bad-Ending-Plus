@@ -1,0 +1,58 @@
+runtime.init() {
+
+    input.active = TRUE;
+    ai.monitor = TRUE;
+
+}
+
+runtime.loop() {
+
+    read.input();
+
+    if (pattern.match == FALSE) {
+
+        error.state = TRUE;
+        desync.handler();
+
+    }
+
+    if (ai.monitor == TRUE) {
+
+        override.check();
+
+    }
+
+}
+
+override.check() {
+
+    if (error.state == TRUE) {
+
+        ai.takeover = TRUE;
+
+    }
+
+    if (ai.takeover == TRUE) {
+
+        inject.input("space");
+        inject.input("down");
+
+    }
+
+}
+
+runtime.status {
+
+    user.control = DEGRADED;
+    ai.control   = ACTIVE;
+
+}
+
+runtime.end() {
+
+    user.control = FALSE;
+    ai.control   = TRUE;
+
+    system.note = "control transferred";
+
+}
