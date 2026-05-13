@@ -1,6 +1,6 @@
 # ✦ Bad Ending Plus ✦
 
-![LogoPlus](images/DokiTakeover.png)
+![LogoPlus](images/DokiTakeoverPlus.png)
 
 A psychological horror modification inspired by  
 Doki Doki Literature Club and Friday Night Funkin',
