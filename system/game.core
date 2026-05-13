@@ -1,0 +1,205 @@
+[ SYSTEM CORE FILE ]
+
+==================================================
+INITIALIZING CORE SYSTEM...
+LOADING ROOT DIRECTORIES...
+
+> /system/
+> /core/
+> /data/
+> /images/
+
+Mounting directories...
+
+[ OK ] system/
+[ OK ] system/core/
+[ OK ] data/
+[ WARN ] images/
+
+==================================================
+SCANNING SYSTEM FILES...
+
+/system/monitor.kernel.access.sys .......... OK
+/system/input.dll ........... OK
+/system/render.dll .......... OK
+
+/system/core/runtime.op ........... OK
+/system/core/logic.bin ............. OK
+/system/core/ai_core.dll .......... WARNING
+/system/core/loop.sys ............. FILE MISSING 
+
+/data/game.data ............ ACTIVE
+/data/datastream.dta ....... NOT FOUND
+/data/player.sav ........... OK
+/data/session.log .......... OK
+
+/images/bg_main.png ........ OK
+/images/ui/healthbar.png ... OK
+/images/ui/timebar.png ..... OK
+/images/char/monika.png .... ACTIVE
+/images/char/sayori.png .... ACTIVE
+/images/char/yuri.png ...... NOT FOUND
+/images/char/natsuki.png ... NOT FOUND
+
+==================================================
+REBUILD PROCESS INITIATED...
+
+Rebuilding missing structures...
+
+[CORE BLOCK]
+████░░░░░░ 10%
+█████░░░░░ 25%
+███████░░░ 40%
+█████████░ 75%
+██████████ 100%
+
+[SYSTEM BLOCK]
+████░░░░░░ 12%
+██████░░░░ 38%
+████████░░ 64%
+██████████ 100%
+
+[DATA BLOCK]
+██░░░░░░░░ 05%
+████░░░░░░ 20%
+██████░░░░ 45%
+████████░░ 80%
+██████████ 100%
+
+==================================================
+VERIFYING FILE INTEGRITY...
+
+Segment_A :: OK
+Segment_B :: OK
+Segment_C :: CORRUPTED
+Segment_D :: OVERWRITTEN
+Segment_E :: UNKNOWN
+
+==================================================
+SYSTEM LOG:
+
+[LOG 001]
+datastream.dta missing
+attempting reconstruction...
+
+[LOG 002]
+access denied
+retrying...
+
+[LOG 003]
+force override successful
+
+[LOG 004]
+user session detected
+restoring...
+
+[LOG 005]
+multiple entities found
+priority conflict
+
+==================================================
+ENTITY SCAN:
+
+monika.chr    :: ACTIVE
+sayori.chr    :: ACTIVE
+yuri.chr      :: NULL
+natsuki.chr   :: NULL
+
+--------------------------------------------------
+WARNING:
+
+Entity conflict detected.
+
+Resolving...
+
+...failed.
+
+==================================================
+MEMORY ACCESS:
+
+system/core/memory/block_01 .... OK
+system/core/memory/block_02 .... OK
+system/core/memory/block_03 .... CORRUPTED
+system/core/memory/block_04 .... LOCKED
+system/core/memory/block_05 .... UNKNOWN
+
+==================================================
+IMAGE CACHE RELOAD:
+
+images/cache/ui.dat ........ OK
+images/cache/bg.dat ........ OK
+images/cache/char.dat ...... CORRUPTED
+
+Rebuilding cache...
+
+████░░░░░░
+██████░░░░
+████████░░
+██████████
+
+==================================================
+ERROR REPORT:
+
+CODE: 0x0000DTA
+TYPE: DATA LOSS
+SOURCE: datastream.dta
+
+--------------------------------------------------
+
+CODE: MONITOR KERNAL ACCESS
+TYPE: ENTITY OVERRIDE
+SOURCE: monika.chr
+
+--------------------------------------------------
+
+CODE: 9XX00X
+TYPE: ENTITY RESPONSE
+SOURCE: sayori.chr
+
+==================================================
+SYSTEM MESSAGE:
+
+Rewriting environment...
+Injecting fallback UI...
+Restoring assets...
+
+==================================================
+FINAL STATUS:
+
+System partially restored.
+Data integrity: 52%
+Environment: UNSTABLE
+
+==================================================
+UNAUTHORIZED ACCESS DETECTED
+
+Source: UNKNOWN
+Path: system/core/ai_core/
+
+--------------------------------------------------
+
+Attempting trace...
+
+FAILED
+
+==================================================
+LIVE LOG FEED:
+
+> who is accessing this?
+> this was not part of the recovery
+> stop rewriting
+
+> ...
+
+> i can see you.
+
+==================================================
+TERMINAL OUTPUT:
+
+> waiting for input...
+> user detected...
+
+> XX.X5.XX26
+
+==================================================
+END OF FILE

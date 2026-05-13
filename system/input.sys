@@ -1,0 +1,76 @@
+sys.input.init() {
+
+    driver.load("keyboard.sys");
+    driver.load("touch.sys");
+
+    input.channel.primary = "keyboard";
+    input.channel.secondary = "touch";
+
+    input.buffer = allocate(256);
+
+}
+
+module.input.core {
+
+    status = ACTIVE;
+    integrity = 78%;
+
+    handler.main = RUNNING;
+    handler.alt  = STANDBY;
+
+}
+
+device.map {
+
+    key.space = 0x20;
+    key.left  = 0x25;
+    key.up    = 0x26;
+    key.right = 0x27;
+    key.down  = 0x28;
+
+}
+
+input.pipeline {
+
+    stage.read    = ENABLED;
+    stage.process = ENABLED;
+    stage.output  = ENABLED;
+
+}
+
+control.flags {
+
+    user.input = TRUE;
+    ai.input   = FALSE;
+
+}
+
+override.check {
+
+    if (ai.input == TRUE) {
+        user.input = FALSE;
+    }
+
+}
+
+error.handler {
+
+    desync = FALSE;
+    overflow = FALSE;
+    unknown = FALSE;
+
+}
+
+system.status {
+
+    input.state = STABLE;
+    latency.ms = 12;
+
+}
+
+terminate.sys() {
+
+    input.channel.primary = NULL;
+    input.buffer = CLEAR;
+
+}

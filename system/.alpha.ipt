@@ -1,0 +1,9 @@
+if gameVersion is "Alpha C" then
+remove 'RevisionB.json' and 'RevisionB.ipt'
+
+getAcess from = "gameVersions" then
+use code "> get access" then get access from C.version
+
+> copy
+
+.../

@@ -1,0 +1,8 @@
+[LOG]
+datastream.dot missing
+user session unstable
+recovery forced
+
+[LOG]
+file = MINE
+status = DELETED

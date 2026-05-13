@@ -1,0 +1,82 @@
+[ SYSTEM CORE FILE ]
+File: game.data
+Status: "game.core" FILE MISSING
+Recovery Mode: ACTIVE
+
+----------------------------------------
+INITIALIZING CORE...
+LOADING MEMORY BLOCKS...
+CHECKING INTEGRITY...
+
+[ OK ] kernel.sys
+[ OK ] input.dll
+[ FAIL ] datastream.dta
+[ WARN ] monika.chr
+[ WARN ] sayori.chr
+[ FAIL ] yuri.chr
+[ FAIL ] natsuki.chr
+
+----------------------------------------
+REBUILD PROCESS STARTED...
+
+Reconstructing segments...
+████░░░░░░ 12%
+██████░░░░ 34%
+████████░░ 67%
+██████████ 100%
+
+----------------------------------------
+VERIFYING DATA...
+
+Segment_01: OK
+Segment_02: OK
+Segment_03: CORRUPTED
+Segment_04: UNKNOWN
+Segment_05: OVERWRITTEN
+
+----------------------------------------
+MEMORY LOG:
+
+> Attempting recovery...
+> Access denied
+> Retrying...
+> Success
+
+> User session found
+> Restoring...
+
+----------------------------------------
+ENTITY CHECK:
+
+monika.chr    :: ACTIVE
+sayori.chr    :: NOT FOUND
+natsuki.chr   :: NOT FOUND
+yuri.chr      :: NOT FOUND
+bf.xml        :: NOT FOUND
+gf.xml        :: NOT FOUND 
+
+----------------------------------------
+WARNING:
+
+Unauthorized access detected.
+
+Source: UNKNOWN
+Location: system/core/
+
+----------------------------------------
+REWRITE ATTEMPT:
+
+Injecting fallback data...
+Rebuilding environment...
+Recreating UI...
+
+----------------------------------------
+FINAL STATUS:
+
+System partially restored.
+Data integrity: 48%
+Unstable environment detected.
+
+----------------------------------------
+
+Restoration Completed.
