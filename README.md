@@ -46,6 +46,14 @@ PsychEngine
 
 4. Enable the mod inside the Mods Menu
 
+Option 2:
+1. Download the PsychEngine that the mod already provides.
+
+2. Extract Into Some Folder
+
+3. Launch PsychEngine
+  
+4. And Have Fun !
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## ✦ Recommended Settings
