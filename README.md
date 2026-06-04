@@ -95,7 +95,7 @@ https://discord.gg/F6tB2fsXug
 - GF — Animated Sprites
 - Just Yuri — Backgrounds
 - Soup — Main Artist & Overhauls
-- Bump — Chart Events
+- Bump — Chart Events & Android Porter
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
