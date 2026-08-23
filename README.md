@@ -75,25 +75,17 @@ This mod contains:
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## ✦ Community
-
-Join the official NXSTeam Community:
-
-https://discord.gg/F6tB2fsXug
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## ✦ Credits
 
 ### NXSTeam
 
-- Nxth — Team Leader & Beta Tester
+- Evan — Team Leader & Beta Tester
 - Cloe — Vice-Leader & Vocals
-- Yuri — Coding Support
-- Sayooo — Sprites & Music
+- Mel — Coding Support
+- Mel — Sprites & Music
 - BF — Ideas & Concepts
 - GF — Animated Sprites
-- Just Yuri — Backgrounds
+- Max — Backgrounds
 - Soup — Main Artist & Overhauls
 - Bump — Chart Events & Android Porter
 
