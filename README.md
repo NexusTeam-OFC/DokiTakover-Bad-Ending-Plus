@@ -72,6 +72,33 @@ This mod contains:
 - Disturbing Scenes
 - Jumpscares
 - Disturbing Sprites
+ ' Disable then pressing '1' while in a song and then activate 'Content Filter'. '
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✦ Weeks / Songs
+
+- Sayori: Stagnant, Happy Poems
+- Yuri: Obsession, Markov, Eyes
+- Natsuki: ???, Home
+- Festival: Festival
+- GF: The Traitor
+- Monika: Last Chance, Datastream
+- The End: Final Poem
+- ???: ??, ??
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✦ DLCs
+
+Currently In Beta
+
+- Extras Week
+- ?? ???????
+- ????? ?????
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
