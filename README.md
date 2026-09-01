@@ -18,6 +18,7 @@ Bad Ending Plus is a story-driven FNF mod focused on:
 - Custom visuals
 - Original soundtrack
 - Meta elements
+
 Current version: v2.2.3
 Coming version: v2.2.4
 
