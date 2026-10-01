@@ -1,6 +1,7 @@
 # ✦ Bad Ending Plus ✦
 
 ![LogoPlus](images/DokiTakeoverPlus.png)
+[ the v3 logo ]
 
 A psychological horror modification inspired by  
 Doki Doki Literature Club and Friday Night Funkin',
@@ -84,7 +85,7 @@ This mod contains:
 
 - Sayori: Stagnant, Happy Poems
 - Yuri: Obsession, Markov, Eyes
-- Natsuki: ???, Home
+- Natsuki: Illusion, Home
 - Festival: Festival
 - GF: The Traitor
 - Monika: Last Chance, Datastream
@@ -107,17 +108,7 @@ Currently In Beta
 
 ## ✦ Credits
 
-### NXSTeam
-
-- Evan — Team Leader & Beta Tester
-- Cloe — Vice-Leader & Vocals
-- Mel — Coding Support
-- Mel — Sprites & Music
-- BF — Ideas & Concepts
-- GF — Animated Sprites
-- Max — Backgrounds
-- Soup — Main Artist & Overhauls
-- Bump — Chart Events & Android Porter
+### Evan — Main Creator.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
