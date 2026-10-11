@@ -1,0 +1,230 @@
+V2 DOPPELGÄNGER
+
+IDENTIFICATION
+
+Name: V2 Doppelgänger
+Type: Flawed Impersonator
+Origin: Old Faker
+Status: Anomalous Entity
+Primary Target: Monika
+Primary Interest: BF
+Narrative Role: Antagonist and Psychological Manipulator
+
+---
+
+ORIGIN
+
+The V2 Doppelgänger is the evolved form of the original Faker, resulting from the events of Markov.
+
+During Markov, a flaw in GF's file allows the Eyes to interfere with the system. The entity exploits this vulnerability to achieve a more advanced form.
+
+The V2 Doppelgänger is not an independent entity unrelated to the original Faker, but a new stage of the same entity's existence.
+
+---
+
+PERSONALITY
+
+The Doppelgänger is calculating, manipulative, and cruel. Her primary strategy is to undermine her victims' perception of reality before resorting to physical violence.
+
+She observes behavior, analyzes vulnerabilities, and waits for favorable opportunities to act. Her methods involve creating a false sense of security while manipulating her target.
+
+Dominant Trait: Yandere.
+
+Her primary interest is BF. The Doppelgänger mistakenly believes that Monika has romantic feelings for him and interprets Monika's concern for BF's safety as a threat.
+
+Monika, however, has no romantic interest in BF. Her concern is genuine and stems from her desire to protect his well-being.
+
+This distorted interpretation makes Monika one of the entity's primary targets.
+
+---
+
+OBJECTIVES
+
+Primary Objective
+
+Psychologically destroy her victims.
+
+In After Story, her primary target is Monika. The entity seeks to induce psychological collapse through mental manipulation, perceptual distortion, and the exploitation of emotional vulnerabilities.
+
+Exception: BF
+
+BF occupies an exceptional position within the Doppelgänger's psychology.
+
+Initially, she lacks genuine human emotions and uses emotional displays as instruments of manipulation. However, her growing proximity to BF begins to trigger the development of real emotions.
+
+This change distinguishes her relationship with BF from her relationships with other victims.
+
+---
+
+ABILITIES
+
+1. Psychological Manipulation
+
+Manipulates mental states, perceptions, and interpretations of reality. She can make victims believe false information or accept events that never occurred.
+
+2. Illusions
+
+Creates illusions that alter her victims' sensory perceptions. These illusions can be used to confuse, disorient, intimidate, or manipulate.
+
+3. Memory Manipulation
+
+Interferes with existing memories and can implant false memories, making fictional events appear genuine.
+
+4. Perceptual Manipulation
+
+Controls the information her victims perceive and the conclusions they draw from it. She does not necessarily need to lie directly to induce false beliefs.
+
+5. Voice and Audio Mimicry
+
+Reproduces human voices, music, radio transmissions, and other sounds. This ability allows her to attract, confuse, or manipulate individuals without immediately revealing her location.
+
+6. Shapeshifting
+
+Assumes the appearance of other individuals, including acquaintances, family members, strangers, and specific people.
+
+To perform an impersonation, she requires a physical item associated with the target, such as hair or a piece of clothing.
+
+7. Flawed Impersonation
+
+Despite her advanced mimicry, the Doppelgänger belongs to the Flawed Impersonator category.
+
+Her transformations may exhibit anomalies, including:
+
+- Facial deformities.
+- Missing anatomical features.
+- Abnormally elongated limbs.
+- Bodily distortions.
+- Vocal inconsistencies.
+- Other physical or behavioral irregularities.
+
+Perfect impersonation is not guaranteed under all circumstances.
+
+8. Anomalous Manifestation
+
+Manifests suddenly in unexpected locations, including monitored environments.
+
+9. Levitation
+
+Possesses the ability to levitate, defying conventional human physical limitations.
+
+10. Reality Manipulation
+
+Interferes with the structure of reality and reconstructs events and cycles. She can rebuild the game's CORE and alter fundamental components of its operation.
+
+This ability has specific limitations.
+
+11. File and System Manipulation
+
+Interferes with the game's files and internal structures by exploiting existing vulnerabilities.
+
+During the world's reconstruction, she removes "limitations.dta", creating an opening that allows "monika.chr" to enter. This interference contributes to the events of Monika Week.
+
+12. Psychological Destruction
+
+Can drive victims into extreme states of psychological deterioration.
+
+One possible outcome is M.A.D. (Metaphysical Awareness Disorder). In Executable File, this process is associated with Sayori's psychological collapse and induced suicide.
+
+13. Physical, Psychic, and Mental Abilities
+
+Possesses anomalous physical attributes and psychic and mental capabilities, including telekinesis. These abilities complement her psychological manipulation rather than necessarily serving as her primary method of attack.
+
+---
+
+LIMITATIONS
+
+1. Psychological Dependence
+
+The effectiveness of her psychological abilities decreases considerably when a victim can:
+
+- Overcome her illusions.
+- Refuse to listen to her.
+- Maintain emotional control.
+- Resist fear and manipulation.
+
+The entity is most dangerous when she can control her target's perception and mental state.
+
+2. Impersonation Failures
+
+Her transformations are not infallible. Her classification as a Flawed Impersonator means that physical, vocal, or behavioral inconsistencies may occur.
+
+3. Physical Barriers
+
+Despite her supernatural abilities, she cannot indiscriminately bypass every physical barrier. Access to certain environments may still depend on available entry points, such as doors, windows, or other openings.
+
+4. Initial Lack of Genuine Emotions
+
+Originally, the Doppelgänger lacks authentic human emotions. Her displays of love, empathy, concern, sadness, and affection are initially performances intended to manipulate others.
+
+Exception: BF.
+
+Her proximity to BF gradually triggers the development of genuine emotions, making him an anomaly within her psychological structure.
+
+---
+
+RELATIONSHIPS
+
+GF
+
+The V2 Doppelgänger kills the original GF and assumes her identity. She uses this appearance throughout the Weeks to remain close to BF without raising suspicion.
+
+Despite her physical resemblance to GF, the impersonation may reveal inconsistencies:
+
+- Behavior inconsistent with the original GF.
+- Vocal irregularities.
+- Emotional differences.
+- Physical discrepancies.
+- Memory inconsistencies.
+- The absence of GF's bracelet.
+
+BF
+
+BF is her primary object of interest. The Doppelgänger intends to keep him close and establish control over their relationship.
+
+However, this proximity produces an unexpected change: the entity begins developing genuine feelings.
+
+Her central emotional contradiction is that she develops real emotions while continuing to use manipulation as a means of establishing intimacy.
+
+Monika
+
+The Doppelgänger considers Monika a rival because she misinterprets the relationship between Monika and BF.
+
+Monika wants to protect BF, not pursue a romantic relationship with him. The entity distorts this concern and attempts to psychologically destroy Monika.
+
+In Conscience, she assumes Sayori's appearance to exploit the emotional importance Sayori holds for Monika.
+
+Sayori
+
+The Doppelgänger uses Sayori's identity as an instrument of emotional manipulation against Monika.
+
+In Executable File, this strategy culminates in extreme psychological deterioration associated with M.A.D.
+
+The Player
+
+The Doppelgänger manipulates both BF and the player.
+
+Throughout the Weeks, the player believes they control BF and experience events through their decisions. However, the revelation in The Traitor (Extended Mix) exposes the entity's manipulation of the player's own perception.
+
+She controls which information is revealed and which events the player is allowed to perceive.
+
+---
+
+CORE TRAIT
+
+The defining characteristic of the V2 Doppelgänger is her use of identity, perception, and trust as instruments of manipulation.
+
+Her effectiveness does not depend exclusively on physical strength or supernatural superiority, but on her ability to assume trusted identities and undermine her victims' judgment.
+
+---
+
+TECHNICAL SUMMARY
+
+The V2 Doppelgänger is an anomalous entity classified as a Flawed Impersonator, originating from the evolution of the original Faker following the events of Markov.
+
+Abilities: Mimicry, shapeshifting, illusions, memory manipulation, psychological and perceptual manipulation, audio mimicry, levitation, telekinesis, anomalous physical and psychic abilities, system interference, and reality and cycle manipulation.
+
+Limitations: Vulnerability to psychological resistance, impersonation failures, physical access restrictions, and an initial lack of genuine human emotions.
+
+Primary Objective: Psychological destruction of her victims, particularly Monika.
+
+Primary Interest: BF, whose proximity triggers the development of genuine emotions within the entity.
