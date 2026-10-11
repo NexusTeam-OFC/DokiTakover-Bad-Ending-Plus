@@ -8,28 +8,28 @@ Origin: Old Faker
 Status: Anomalous Entity
 Primary Target: Monika
 Primary Interest: BF
-Narrative Role: Antagonist and Psychological Manipulator
+Narrative Role: Antagonist / Psychological Manipulator
 
 ---
 
 ORIGIN
 
-The V2 Doppelgänger is the evolved form of Old Faker, originally introduced in The Traitor, from Week "???".
+The V2 Doppelgänger is the evolved form of Old Faker, originally associated with The Traitor, currently part of GF Week.
 
-Her transformation occurs specifically in The Traitor (Extended Mix), also belonging to Week "???".
+Her evolution takes place specifically in The Traitor (Extended Mix), associated with Week "???", which will be revealed in V3.
 
-During the events of the Extended Mix, a flaw in GF's file allows the Eyes to interfere with the system. The entity exploits this vulnerability to achieve a more advanced form.
+During the Extended Mix, a flaw in GF's file allows the Eyes to interfere with the system. The entity exploits this vulnerability to achieve a more advanced form.
 
-From that point onward, Old Faker evolves into the V2 Doppelgänger.
+From this point onward, Old Faker becomes the V2 Doppelgänger.
 
-The V2 Doppelgänger is not an independent entity unrelated to Old Faker, but the same entity entering a new stage of existence.
+The V2 Doppelgänger is not a separate entity, but the same entity in a new stage of existence.
 
 Chronological distinction:
 
-- The Traitor: Introduces the original Old Faker.
-- The Traitor (Extended Mix): Depicts Old Faker's evolution into the V2 Doppelgänger.
+- The Traitor: The original Old Faker song, currently part of GF Week.
+- The Traitor (Extended Mix): The song in which Old Faker evolves into the V2 Doppelgänger, associated with Week "???", to be revealed in V3.
 
-The transformation does not occur in the original version of The Traitor, but specifically in its Extended Mix.
+The transformation does not occur in the original version of The Traitor. It takes place specifically in the Extended Mix.
 
 ---
 
@@ -244,13 +244,14 @@ The Doppelgänger manipulates both BF and the player.
 
 Throughout the Weeks, the player believes they control BF and experience events through their decisions.
 
-The revelation of this manipulation is associated with The Traitor (Extended Mix), from Week "???", not the original version of The Traitor.
+The distinction between the two versions of The Traitor is essential to the entity's chronology:
 
-The Extended Mix marks Old Faker's evolution into the V2 Doppelgänger and establishes a new stage of the entity's existence.
+- The Traitor: The original Old Faker song, currently part of GF Week.
+- The Traitor (Extended Mix): The version in which Old Faker evolves into the V2 Doppelgänger, associated with Week "???", which will be revealed in V3.
 
-The distinction is essential: The Traitor features Old Faker; The Traitor (Extended Mix) depicts her evolution into the V2 Doppelgänger.
+The Extended Mix marks the entity's evolution and establishes a new stage of her existence.
 
-The entity controls the information revealed and influences what the player believes is happening.
+The Doppelgänger manipulates the information revealed to the player, influencing what they believe is happening.
 
 ---
 
@@ -264,7 +265,11 @@ Her effectiveness does not depend exclusively on physical strength or supernatur
 
 TECHNICAL SUMMARY
 
-The V2 Doppelgänger is an anomalous entity classified as a Flawed Impersonator, originating from Old Faker's evolution during The Traitor (Extended Mix), from Week "???".
+The V2 Doppelgänger is an anomalous entity classified as a Flawed Impersonator, originating from Old Faker's evolution during The Traitor (Extended Mix).
+
+Original Appearance: The Traitor, currently part of GF Week.
+
+Evolution: The Traitor (Extended Mix), associated with Week "???", to be revealed in V3.
 
 Abilities: Mimicry, shapeshifting, illusions, memory manipulation, psychological and perceptual manipulation, audio mimicry, levitation, telekinesis, anomalous physical and psychic abilities, system interference, and reality and cycle manipulation.
 
@@ -273,8 +278,6 @@ Limitations: Vulnerability to psychological resistance, impersonation failures, 
 Primary Objective: Psychological destruction of her victims, particularly Monika.
 
 Primary Interest: BF, whose proximity triggers the development of genuine emotions within the entity.
-
-Evolution Origin: The Traitor (Extended Mix), Week "???".
 
 ---
 
