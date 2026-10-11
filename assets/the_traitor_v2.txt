@@ -14,11 +14,22 @@ Narrative Role: Antagonist and Psychological Manipulator
 
 ORIGIN
 
-The V2 Doppelgänger is the evolved form of the original Faker, resulting from the events of Markov.
+The V2 Doppelgänger is the evolved form of Old Faker, originally introduced in The Traitor, from Week "???".
 
-During Markov, a flaw in GF's file allows the Eyes to interfere with the system. The entity exploits this vulnerability to achieve a more advanced form.
+Her transformation occurs specifically in The Traitor (Extended Mix), also belonging to Week "???".
 
-The V2 Doppelgänger is not an independent entity unrelated to the original Faker, but a new stage of the same entity's existence.
+During the events of the Extended Mix, a flaw in GF's file allows the Eyes to interfere with the system. The entity exploits this vulnerability to achieve a more advanced form.
+
+From that point onward, Old Faker evolves into the V2 Doppelgänger.
+
+The V2 Doppelgänger is not an independent entity unrelated to Old Faker, but the same entity entering a new stage of existence.
+
+Chronological distinction:
+
+- The Traitor: Introduces the original Old Faker.
+- The Traitor (Extended Mix): Depicts Old Faker's evolution into the V2 Doppelgänger.
+
+The transformation does not occur in the original version of The Traitor, but specifically in its Extended Mix.
 
 ---
 
@@ -26,13 +37,13 @@ PERSONALITY
 
 The Doppelgänger is calculating, manipulative, and cruel. Her primary strategy is to undermine her victims' perception of reality before resorting to physical violence.
 
-She observes behavior, analyzes vulnerabilities, and waits for favorable opportunities to act. Her methods involve creating a false sense of security while manipulating her target.
+She observes behavior, identifies vulnerabilities, and waits for favorable opportunities to act. Her methods involve creating a false sense of security while manipulating her target.
 
 Dominant Trait: Yandere.
 
 Her primary interest is BF. The Doppelgänger mistakenly believes that Monika has romantic feelings for him and interprets Monika's concern for BF's safety as a threat.
 
-Monika, however, has no romantic interest in BF. Her concern is genuine and stems from her desire to protect his well-being.
+In reality, Monika has no romantic interest in BF. Her concern is genuine and stems from her desire to protect his well-being.
 
 This distorted interpretation makes Monika one of the entity's primary targets.
 
@@ -46,11 +57,15 @@ Psychologically destroy her victims.
 
 In After Story, her primary target is Monika. The entity seeks to induce psychological collapse through mental manipulation, perceptual distortion, and the exploitation of emotional vulnerabilities.
 
+Her methods do not rely exclusively on physical attacks. She prioritizes control over her victims' perceptions and mental states.
+
 Exception: BF
 
 BF occupies an exceptional position within the Doppelgänger's psychology.
 
-Initially, she lacks genuine human emotions and uses emotional displays as instruments of manipulation. However, her growing proximity to BF begins to trigger the development of real emotions.
+Initially, she lacks genuine human emotions and uses emotional displays as instruments of manipulation.
+
+However, her growing proximity to BF begins to trigger the development of real emotions.
 
 This change distinguishes her relationship with BF from her relationships with other victims.
 
@@ -60,11 +75,11 @@ ABILITIES
 
 1. Psychological Manipulation
 
-Manipulates mental states, perceptions, and interpretations of reality. She can make victims believe false information or accept events that never occurred.
+Manipulates mental states, perceptions, and interpretations of reality. She can induce victims to believe false information or accept events that never occurred.
 
 2. Illusions
 
-Creates illusions that alter her victims' sensory perceptions. These illusions can be used to confuse, disorient, intimidate, or manipulate.
+Creates illusions that alter her victims' sensory perceptions. She can use them to confuse, disorient, intimidate, or manipulate.
 
 3. Memory Manipulation
 
@@ -72,17 +87,21 @@ Interferes with existing memories and can implant false memories, making fiction
 
 4. Perceptual Manipulation
 
-Controls the information her victims perceive and the conclusions they draw from it. She does not necessarily need to lie directly to induce false beliefs.
+Controls the information her victims perceive and the conclusions they draw from it.
+
+She does not necessarily need to lie directly to induce false beliefs.
 
 5. Voice and Audio Mimicry
 
-Reproduces human voices, music, radio transmissions, and other sounds. This ability allows her to attract, confuse, or manipulate individuals without immediately revealing her location.
+Reproduces human voices, music, radio transmissions, and other sounds.
+
+This ability allows her to attract, confuse, or manipulate individuals without immediately revealing her location.
 
 6. Shapeshifting
 
 Assumes the appearance of other individuals, including acquaintances, family members, strangers, and specific people.
 
-To perform an impersonation, she requires a physical item associated with the target, such as hair or a piece of clothing.
+To perform an impersonation, she requires a physical item associated with the target, such as a lock of hair, a strand of hair, or a piece of clothing.
 
 7. Flawed Impersonation
 
@@ -94,8 +113,8 @@ Her transformations may exhibit anomalies, including:
 - Missing anatomical features.
 - Abnormally elongated limbs.
 - Bodily distortions.
-- Vocal inconsistencies.
-- Other physical or behavioral irregularities.
+- Vocal irregularities.
+- Physical or behavioral inconsistencies.
 
 Perfect impersonation is not guaranteed under all circumstances.
 
@@ -109,7 +128,9 @@ Possesses the ability to levitate, defying conventional human physical limitatio
 
 10. Reality Manipulation
 
-Interferes with the structure of reality and reconstructs events and cycles. She can rebuild the game's CORE and alter fundamental components of its operation.
+Interferes with the structure of reality and reconstructs events and cycles.
+
+She can rebuild the game's CORE and alter fundamental components of its operation.
 
 This ability has specific limitations.
 
@@ -117,17 +138,23 @@ This ability has specific limitations.
 
 Interferes with the game's files and internal structures by exploiting existing vulnerabilities.
 
-During the world's reconstruction, she removes "limitations.dta", creating an opening that allows "monika.chr" to enter. This interference contributes to the events of Monika Week.
+During the world's reconstruction, she removes "limitations.dta", creating an opening that allows "monika.chr" to enter.
+
+This interference contributes to the events of Monika Week.
 
 12. Psychological Destruction
 
 Can drive victims into extreme states of psychological deterioration.
 
-One possible outcome is M.A.D. (Metaphysical Awareness Disorder). In Executable File, this process is associated with Sayori's psychological collapse and induced suicide.
+One possible outcome is M.A.D. (Metaphysical Awareness Disorder).
+
+In Executable File, this process is associated with Sayori's psychological collapse and induced suicide.
 
 13. Physical, Psychic, and Mental Abilities
 
-Possesses anomalous physical attributes and psychic and mental capabilities, including telekinesis. These abilities complement her psychological manipulation rather than necessarily serving as her primary method of attack.
+Possesses anomalous physical attributes and psychic and mental capabilities, including telekinesis.
+
+These abilities complement her psychological manipulation rather than necessarily serving as her primary method of attack.
 
 ---
 
@@ -146,15 +173,21 @@ The entity is most dangerous when she can control her target's perception and me
 
 2. Impersonation Failures
 
-Her transformations are not infallible. Her classification as a Flawed Impersonator means that physical, vocal, or behavioral inconsistencies may occur.
+Her transformations are not infallible.
+
+Her classification as a Flawed Impersonator means that physical, vocal, or behavioral inconsistencies may occur.
 
 3. Physical Barriers
 
-Despite her supernatural abilities, she cannot indiscriminately bypass every physical barrier. Access to certain environments may still depend on available entry points, such as doors, windows, or other openings.
+Despite her supernatural abilities, she cannot indiscriminately bypass every physical barrier.
+
+Access to certain environments may still depend on available entry points, such as doors, windows, or other openings.
 
 4. Initial Lack of Genuine Emotions
 
-Originally, the Doppelgänger lacks authentic human emotions. Her displays of love, empathy, concern, sadness, and affection are initially performances intended to manipulate others.
+Originally, the Doppelgänger lacks authentic human emotions.
+
+Her displays of love, empathy, concern, sadness, and affection are initially performances intended to manipulate others.
 
 Exception: BF.
 
@@ -166,7 +199,9 @@ RELATIONSHIPS
 
 GF
 
-The V2 Doppelgänger kills the original GF and assumes her identity. She uses this appearance throughout the Weeks to remain close to BF without raising suspicion.
+The V2 Doppelgänger kills the original GF and assumes her identity.
+
+She uses this appearance throughout the Weeks to remain close to BF without raising suspicion.
 
 Despite her physical resemblance to GF, the impersonation may reveal inconsistencies:
 
@@ -179,7 +214,9 @@ Despite her physical resemblance to GF, the impersonation may reveal inconsisten
 
 BF
 
-BF is her primary object of interest. The Doppelgänger intends to keep him close and establish control over their relationship.
+BF is her primary object of interest.
+
+The Doppelgänger intends to keep him close and establish control over their relationship.
 
 However, this proximity produces an unexpected change: the entity begins developing genuine feelings.
 
@@ -189,7 +226,9 @@ Monika
 
 The Doppelgänger considers Monika a rival because she misinterprets the relationship between Monika and BF.
 
-Monika wants to protect BF, not pursue a romantic relationship with him. The entity distorts this concern and attempts to psychologically destroy Monika.
+Monika wants to protect BF, not pursue a romantic relationship with him.
+
+The entity distorts this concern and attempts to psychologically destroy Monika.
 
 In Conscience, she assumes Sayori's appearance to exploit the emotional importance Sayori holds for Monika.
 
@@ -203,9 +242,15 @@ The Player
 
 The Doppelgänger manipulates both BF and the player.
 
-Throughout the Weeks, the player believes they control BF and experience events through their decisions. However, the revelation in The Traitor (Extended Mix) exposes the entity's manipulation of the player's own perception.
+Throughout the Weeks, the player believes they control BF and experience events through their decisions.
 
-She controls which information is revealed and which events the player is allowed to perceive.
+The revelation of this manipulation is associated with The Traitor (Extended Mix), from Week "???", not the original version of The Traitor.
+
+The Extended Mix marks Old Faker's evolution into the V2 Doppelgänger and establishes a new stage of the entity's existence.
+
+The distinction is essential: The Traitor features Old Faker; The Traitor (Extended Mix) depicts her evolution into the V2 Doppelgänger.
+
+The entity controls the information revealed and influences what the player believes is happening.
 
 ---
 
@@ -219,7 +264,7 @@ Her effectiveness does not depend exclusively on physical strength or supernatur
 
 TECHNICAL SUMMARY
 
-The V2 Doppelgänger is an anomalous entity classified as a Flawed Impersonator, originating from the evolution of the original Faker following the events of Markov.
+The V2 Doppelgänger is an anomalous entity classified as a Flawed Impersonator, originating from Old Faker's evolution during The Traitor (Extended Mix), from Week "???".
 
 Abilities: Mimicry, shapeshifting, illusions, memory manipulation, psychological and perceptual manipulation, audio mimicry, levitation, telekinesis, anomalous physical and psychic abilities, system interference, and reality and cycle manipulation.
 
@@ -228,3 +273,9 @@ Limitations: Vulnerability to psychological resistance, impersonation failures, 
 Primary Objective: Psychological destruction of her victims, particularly Monika.
 
 Primary Interest: BF, whose proximity triggers the development of genuine emotions within the entity.
+
+Evolution Origin: The Traitor (Extended Mix), Week "???".
+
+---
+
+Coming soon in V3.
